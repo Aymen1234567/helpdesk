@@ -1,0 +1,27 @@
+# Fichiers de configuration
+config/db.php
+
+# Fichiers de test
+test_auth.php
+test_register.php
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.opcache/
