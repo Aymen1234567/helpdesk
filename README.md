@@ -217,6 +217,4 @@ wget -qO- http://localhost:8000/test_register.php
 - Tests unitaires
 - Internationalisation (i18n)
 
-## Licence
 
-Ce projet est distribué sous licence MIT.
