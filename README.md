@@ -1,5 +1,5 @@
 # Mini Helpdesk de cours
-#### Projet académique dans le cadre du cours developpement application web
+### Projet académique dans le cadre du cours developpement application web
 Une application web simple de gestion de tickets d'aide pour les étudiants, développée en PHP pur sans framework.
 
 ## Description
